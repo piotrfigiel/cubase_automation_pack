@@ -17,9 +17,12 @@ My collection of Stream Deck profiles and Keyboard Maestro scripts for Steinberg
 
 ## What's inside?
 - Add plugin at insert under mouse pointer
+<img src="./images/plugins_profile.png" width="500">
 - Remove plugin at insert under mouse pointer
 - Color tracks
+<img src="./images/color_profile.png" width="500">
 - Color tracks and change output
+<img src="./images/routing_profile.png" width="500">
 - ....
 
 ## To be continued...
